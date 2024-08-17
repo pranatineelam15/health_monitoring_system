@@ -1,0 +1,12 @@
+Patient ID: 203
+Name: Rohan Mehta
+Age: 33
+Gender: M
+Height: 175 cm
+Weight: 79 kg
+Blood Type: A+
+Blood Pressure: 135/90 mmHg
+Sugar Level: 150 mg/dL
+Body Temperature: 98.6 °F
+Heart Rate: 80 bpm
+Additional Notes: High cholesterol levels

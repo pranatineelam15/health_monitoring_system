@@ -1,0 +1,12 @@
+Patient ID: 204
+Name: Sanya Iyer
+Age: 25
+Gender: F
+Height: 155 cm
+Weight: 60 kg
+Blood Type: AB-
+Blood Pressure: 125/78 mmHg
+Sugar Level: 120 mg/dL
+Body Temperature: 98.5 °F
+Heart Rate: 70 bpm
+Additional Notes: Mild anemia detected

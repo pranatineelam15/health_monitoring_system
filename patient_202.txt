@@ -1,0 +1,12 @@
+Patient ID: 202
+Name: Priya Sharma 
+Age: 28
+Gender: F
+Height: 160 cm
+Weight: 58 kg
+Blood Type: O+
+Blood Pressure: 120/80 mmHg
+Sugar Level: 110 mg/dL
+Body Temperature: 98.4 °F
+Heart Rate: 72 bpm
+Additional Notes: Recently recovered from dengue

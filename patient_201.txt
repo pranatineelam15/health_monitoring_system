@@ -1,0 +1,12 @@
+Patient ID: 201
+Name: Aarav Patel
+Age: 40
+Gender: M
+Height: 172 cm
+Weight: 70 kg
+Blood Type: B+
+Blood Pressure: 130/85 mmHg
+Sugar Level: 145 mg/dL
+Body Temperature: 98.7 °F
+Heart Rate: 75 bpm
+Additional Notes: History of diabetes in the family
